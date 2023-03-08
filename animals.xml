@@ -1,25 +1,125 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <animals>
     <vertebrates>
+        <tetrapods>
+            <amphibians type="ectothermic" species="6000">
+                <amphibian>
+                    <surinam_toad scientific_name="Pipa pipa">
+                        <diet>Carnivore</diet>
+                        <avg_life_span_captivity>8 Years</avg_life_span_captivity>
+                        <size>Four to eight inches</size>
+                        <weight>3.5 to 5.6 ounces</weight>
+                    </surinam_toad>
+                    <puerto_rican_crested_toads scientific_name="Peltophryne lemur">
+                        <diet>Insectivore</diet>
+                        <avg_life_span_captivity>10 Years</avg_life_span_captivity>
+                        <size>Two to five inches</size>
+                    </puerto_rican_crested_toads>
+                    <caecilian scientific_name="Gymnophiona">
+                        <diet>Carnivore</diet>
+                        <avg_life_span_captivity>Unknown</avg_life_span_captivity>
+                        <size>From 3.5 inches to nearly 5 feet</size>
+                    </caecilian>
+                </amphibian>
+            </amphibians>
 
+            <mammals type="endothermic" species="5,400">
+                <mammal>
+                    <american_bison scientific_name="Bison bison">
+                        <diet>Herbivore</diet>
+                        <group_name>Herd</group_name>
+                        <avg_life_span_in_the_wild>12 to 20 years</avg_life_span_in_the_wild>
+                        <size>7 to 11.5 feet</size>
+                        <weight>930 to 2,200 pounds</weight>
+                    </american_bison>
+                    <african_elephant scientific_name="Loxodonta">
+                        <diet>Herbivore</diet>
+                        <group_name>Herd</group_name>
+                        <avg_life_span_in_the_wild>Up to 70 years</avg_life_span_in_the_wild>
+                        <size> 8.2 to 13 feet</size>
+                        <weight>2.5 to seven tons</weight>
+                    </african_elephant>
+                    <arctic_foxes scientific_name="Vulpes lagopus">
+                        <diet>Omnivore</diet>
+                        <group_name>Skulk, leash</group_name>
+                        <avg_life_span_in_the_wild>3 to 6 years</avg_life_span_in_the_wild>
+                        <size>18 to 26.75 inches;</size>
+                        <weight>6.5 to 17 pounds</weight>
+                    </arctic_foxes>
+                </mammal>
+            </mammals>
+        </tetrapods>
 
+        <non-tetrapods>
+           <fishes type="ectothermic" species="28000">
+                <fish>
+                    <northern_snakehead scientific_name="Channa argus">
+                        <diet>Carnivore</diet>
+                        <group_name>School</group_name>
+                        <size>Up to 3 feet (length)</size>
+                        <weight>Up to 19 pounds</weight>
+                    </northern_snakehead>
+                    <arapaima scientific_name="Arapaima gigas">
+                        <diet>Carnivore</diet>
+                        <size>up to 15 feet</size>
+                        <weight> up to 440 pounds</weight>
+                    </arapaima>
+                    <flatfish scientific_name="Pleuronectiformes">
+                        <diet>Carnivore</diet>
+                        <avg_life_span>About a year to 60 years</avg_life_span>
+                        <size>One inch to 15 feet</size>
+                        <weight>Up to 615 pounds</weight>
+                    </flatfish>
+                </fish>
+           </fishes> 
+        </non-tetrapods>
+    </vertebrates>
 
-    </vertibrates>
+    <invertebrates>
+        <annelids species="17000">
+            <annelida>
+                <earthworm scientific_name="Lumbricus terrestris">
+                    <diet>Herbivore</diet>
+                    <avg_life_span_in_the_wild>Up to 6 years</avg_life_span_in_the_wild>
+                    <size>Up to 14 inches</size>
+                    <weight>Up to 0.39 ounces</weight>
+                </earthworm>
+                <leech scientific_name="Hirudinea">
+                    <diet>Carnivore</diet>
+                    <behavior>Nocturnal, Solitary</behavior>
+                    <avg_life_span>Life cycle in a few months, but many can live for several years</avg_life_span>
+                    <habitat>temperate, tropical, freshwater</habitat>
+                </leech>
+            </annelida>
+        </annelids>
 
-
-
-
-    <invertibrates>
-
-
-
-
-    </invertibrates>
-
-
+        <anthropods species="800000">
+            <anthropoda>
+                <tarantula scientific_name="Theraphosidae">
+                    <diet>Carnivore</diet>
+                    <avg_life_span_in_the_wild>Up to 30 years</avg_life_span_in_the_wild>
+                    <size>4.75 inches long; leg span: up to 11 inches</size>
+                    <weight>1 to 3 ounces</weight>
+                </tarantula>
+                <scorpion scientific_name="Scorpiones">
+                    <diet>Carnivore</diet>
+                    <avg_life_span_in_the_wild>3 to 8 years</avg_life_span_in_the_wild>
+                    <size>2.5 to 8.3 inches</size>
+                </scorpion>
+            </anthropoda>
+        </anthropods>
+    </invertebrates>
 
     <carnivores>
+        <canidae>
+        </canidae>
 
+        <felidae>
+        </felidae>
+        
+        <ursidae>
+        </ursidae>
 
 
     </carnivores>
