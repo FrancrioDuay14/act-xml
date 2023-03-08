@@ -174,12 +174,14 @@
             </ursidae>
     </carnivores>
 
-
-
     <herbivores>
-
-
-
+        <koala scientific_name="Phascolarctos cinereus">
+            <diet>Herbivores</diet>
+            <avg_life_span_in_the_wild>20 years</avg_life_span_in_the_wild>
+            <size>23.5 to 33.5 inches</size>
+            <weight> 20 pounds</weight>
+        </koala>
+            
     </herbivores>
 
 
