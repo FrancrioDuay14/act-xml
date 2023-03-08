@@ -112,16 +112,66 @@
     </invertebrates>
 
     <carnivores>
-        <canidae>
-        </canidae>
+            <canidae appearance="dog-alike" species="37">
+                <african_wild_dogs scientific_name="Lycaon pictus">
+                    <diet>Carnivore</diet>
+                    <group_name>Pack</group_name>
+                    <avg_life_span_in_the_wild>Up to 11 years</avg_life_span_in_the_wild>
+                    <size>29.5 to 43 inches</size>
+                    <weight>39.5 to 79 pounds</weight>
+                </african_wild_dogs>
+                <red_wolves scientific_name="Canis rufus">
+                    <diet>Carnivore</diet>
+                    <group_name>Pack</group_name>
+                    <avg_life_span_in_the_wild>Up to 16 years</avg_life_span_in_the_wild>
+                    <size>4 feet long</size>
+                    <weight>45 to 80 pounds</weight>
+                </red_wolves>
+            </canidae>
 
-        <felidae>
-        </felidae>
-        
-        <ursidae>
-        </ursidae>
+            <felidae appearance="cat-alike" species="36">
+                <siberian_tiger scientific_name="Panthera tigris altaica">
+                    <diet>Carnivore</diet>
+                    <avg_life_span_in_the_wild>8 to 10 years</avg_life_span_in_the_wild>
+                    <size>10.75 feet</size>
+                    <weight>660 pounds</weight>
+                </siberian_tiger>
+                <african_lion scientific_name="Panthera leo">
+                    <diet>Carnivore</diet>
+                    <group_name>Pride</group_name>
+                    <avg_life_span_in_the_wild>15 to 16 years</avg_life_span_in_the_wild>
+                    <size>4.5 to 6.5 feet</size>
+                    <weight>265 to 420 pounds</weight>
+                </african_lion>
+            </felidae>
 
+            <hyaenidae species="4">
+                <hyena scientific_name="Crocuta crocuta">
+                        <diet>Carnivore</diet>
+                        <group_name>Clan</group_name>
+                        <avg_life_span_in_the_wild>Up to 25 years</avg_life_span_in_the_wild>
+                        <size>34 to 59 inches</size>
+                        <weight>110 to 190 pounds</weight>
+                </hyena>
+            </hyaenidae>
+             
+            <mustelidae species="68">
+                <otters scientific_name="Mustelidae">
+                        <diet>Carnivore</diet>
+                        <avg_life_span_in_the_wild>up to 21 years in</avg_life_span_in_the_wild>
+                        <size>2 to 6 feet long</size>
+                        <weight> 10 to 75 pounds</weight>
+                </otters>
+            </mustelidae>
 
+            <ursidae species="7">
+                <bear scientific_name="Ursidae">
+                        <diet>Carnivore</diet>
+                        <avg_life_span_in_the_wild>20 to 30 years in</avg_life_span_in_the_wild>
+                        <size>4 to 8 feet tall</size>
+                        <weight> 60 to 1,600 pounds</weight>
+                </bear>
+            </ursidae>
     </carnivores>
 
 
