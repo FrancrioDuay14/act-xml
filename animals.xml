@@ -217,11 +217,10 @@
             <size>Four to 5.5 feet</size>
             <weight>70 to 130 pounds</weight>
         </chimpanzees> 
-        <dung_beetle scientific_name="Scarabaeidae">
+        <american_crows scientific_name="Corvus brachyrhynchos">
             <diet>Omnivore</diet>
-            <size>0.08 to 6.7 inches</size>
-            <weight>Up to 3.5 ounces</weight>
-        </dung_beetle>
+            <size>17.5 inches</size>
+        </american_crows>
         <racoons scientific_name="Procyon lotor">
             <diet>Omnivore</diet>
             <group_name>Nursery</group_name>
