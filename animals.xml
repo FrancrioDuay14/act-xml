@@ -181,14 +181,54 @@
             <size>23.5 to 33.5 inches</size>
             <weight> 20 pounds</weight>
         </koala>
-            
+        <moose scientific_name="Alces alces">
+            <diet>Herbivores</diet>
+            <group_name>Herd</group_name>
+            <avg_life_span_in_the_wild>15 to 20 years</avg_life_span_in_the_wild>
+            <size>5 to 6.5 feet</size>
+            <weight> 1,800 pounds</weight>
+        </moose>
+        <giraffe scientific_name="Giraffa camelopardalis">
+            <diet>Herbivores</diet>
+            <avg_life_span_in_the_wild>25 years</avg_life_span_in_the_wild>
+            <size>14 to 19 feet</size>
+            <weight>1,750 to 2,800 pounds</weight>
+        </giraffe>
+        <zebra scientific_name="Equus quagga">
+            <diet>Herbivores</diet>
+            <group_name>Herd</group_name>
+            <avg_life_span_in_the_wild>25 years</avg_life_span_in_the_wild>
+            <size>3.5 to 5 feet</size>
+            <weight>440 to 990 pounds</weight>
+        </zebra>
+        <wallaby scientific_name="Notamacropus">
+            <diet>Herbivores</diet>
+            <avg_life_span_in_the_wild>9 years</avg_life_span_in_the_wild>
+            <size>12 to 41 inches</size>
+            <weight>4 to 53 pounds</weight>
+        </wallaby>             
     </herbivores>
 
-
-
     <omnivores>
-
-    
+        <chimpanzees scientific_name="Pan troglodytes">
+            <diet>Omnivore</diet>
+            <group_name>Community</group_name>
+            <avg_life_span_in_the_wild>45 years</avg_life_span_in_the_wild>
+            <size>Four to 5.5 feet</size>
+            <weight>70 to 130 pounds</weight>
+        </chimpanzees> 
+        <dung_beetle scientific_name="Scarabaeidae">
+            <diet>Omnivore</diet>
+            <size>0.08 to 6.7 inches</size>
+            <weight>Up to 3.5 ounces</weight>
+        </dung_beetle>
+        <racoons scientific_name="Procyon lotor">
+            <diet>Omnivore</diet>
+            <group_name>Nursery</group_name>
+            <avg_life_span_in_the_wild>2 to 3 years</avg_life_span_in_the_wild>
+            <size>23.75 to 37.5 inches</size>
+            <weight>4 to 23 pounds</weight>
+        </racoons>  
     </omnivores>
 
 
